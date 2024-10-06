@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.029bbeb2.css",
-    "main.js": "/portfolio/static/js/main.bcf98202.js",
-    "static/media/project1.png": "/portfolio/static/media/project1.2054760085113f8017be.png",
-    "static/media/project3.png": "/portfolio/static/media/project3.9e7f91c313a1655ac43e.png",
-    "static/media/project2.png": "/portfolio/static/media/project2.295c05993887c44e824b.png",
+    "main.css": "/portfolio/static/css/main.a6dc3a42.css",
+    "main.js": "/portfolio/static/js/main.f58d0512.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.b470b11777871c15bb51.jpg",
     "static/media/roboto-condensed.light.ttf": "/portfolio/static/media/roboto-condensed.light.d9e440de777389435df7.ttf",
-    "static/media/profile.jpeg": "/portfolio/static/media/profile.21777363e7041e0c9d43.jpeg",
+    "static/media/project1.jpg": "/portfolio/static/media/project1.3d573d2abc37414d971f.jpg",
+    "static/media/project3.png": "/portfolio/static/media/project3.498ec39966cf82cf0058.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.1af256190397b29f78a1.png",
     "static/media/economica-bold.ttf": "/portfolio/static/media/economica-bold.ce99c17a86c8c9ef7b81.ttf",
     "static/media/github_icon.png": "/portfolio/static/media/github_icon.ccc9e19951ebe8134688.png",
     "static/media/linkedin_icon.png": "/portfolio/static/media/linkedin_icon.27cd6ff778a81a45fa46.png",
     "static/media/email_icon.png": "/portfolio/static/media/email_icon.160a6010e180da253390.png",
     "index.html": "/portfolio/index.html",
-    "main.029bbeb2.css.map": "/portfolio/static/css/main.029bbeb2.css.map",
-    "main.bcf98202.js.map": "/portfolio/static/js/main.bcf98202.js.map"
+    "main.a6dc3a42.css.map": "/portfolio/static/css/main.a6dc3a42.css.map",
+    "main.f58d0512.js.map": "/portfolio/static/js/main.f58d0512.js.map"
   },
   "entrypoints": [
-    "static/css/main.029bbeb2.css",
-    "static/js/main.bcf98202.js"
+    "static/css/main.a6dc3a42.css",
+    "static/js/main.f58d0512.js"
   ]
 }
