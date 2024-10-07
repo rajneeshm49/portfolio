@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Projects from "./Projects";
+import Profile from "../src/assets/profile.jpg";
 import SocialProfiles from "./SocialProfiles";
-import Profile from "../src/assets/profile.jpeg";
 
 class App extends Component {
   state = {
@@ -17,7 +17,20 @@ class App extends Component {
       <div>
         <img src={Profile} alt="profile" class="profile" />
         <h1>Hello!</h1>
-        <p>My name is Rajneesh Mishra and Iam a Software Engineer</p>
+        <p>
+          My name is Rajneesh Mishra and Iam a passionate Full Stack Developer
+          with over a decade of experience, I specialize in architecting highly
+          available and resilient solutions using Cloud services, and deploying
+          them seamlessly using Continuous Integration and Deployment
+          techniques. Whether it's crafting dynamic Ionic-Angular apps or
+          automating workflows, I bring resilient, efficient solutions to the
+          table, With a keen interest in CloudFormation. Iam keenly learning to
+          be a Certified AWS Solutions Architect by the end of 2024. I thrive on
+          building the future of tech. Beyond tech, I'm mastering German, enjoy
+          running through nature, nurturing my indoor jungle of plants, and
+          staying active through sports. Always chasing growth, in both code and
+          life.
+        </p>
         <p>I love architecting using Cloud Solutions</p>
         {this.state.showBio ? (
           <div>

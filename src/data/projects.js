@@ -5,24 +5,30 @@ import image3 from "../assets/project3.png";
 const PROJECTS = [
   {
     id: "project1",
-    title: "My Project 1",
+    title: "Liberty Costa Rica ",
     image: image1,
-    description: "some description 1",
-    link: "https://github.com",
+    description:
+      "Offers telecommunications and technology solutions for businesses in Costa Rica.",
+    // "The website 'LibertyCR Empresas' offers telecommunications and technology solutions for businesses in Costa Rica. It provides services like high-speed internet, mobile plans, cloud solutions, and managed IT services, tailored for companies to improve their connectivity and operational efficiency. They also offer specialized support for different industry sectors.",
+    link: "https://libertycr.com/empresas",
   },
   {
     id: "project2",
-    title: "My Project 2",
+    title: "My Liberty Puerto Rico",
     image: image2,
-    description: "some description 2",
-    link: "https://github.com",
+    description:
+      "Designed for customers of Liberty Puerto Rico to manage their mobile and internet services",
+    // "The 'My Liberty app' is designed for customers of Liberty Puerto Rico to manage their mobile and internet services. Users can pay bills, view account history, save payment methods for future use, and manage autopay options. It also offers features like reviewing service outages, managing multiple accounts, and even rebooting your modem directly from the app. It's a convenient tool for handling your Liberty services on the go​",
+    link: "https://mi.libertypr.com",
   },
   {
     id: "project3",
-    title: "My Project 3",
+    title: "My Flow App",
     image: image3,
-    description: "some description 3",
-    link: "https://github.com",
+    description:
+      "An app for Caribbean customers of Flow to manage their mobile services, monitoring data",
+    // "The 'My Flow' app is a self-care tool for customers of LIME (now Flow) in the Caribbean. It allows users to manage their mobile services, including buying add-ons, monitoring data usage, viewing call and text history, and paying bills. The app offers prepaid users control over their accounts, with features like tracking overages and direct communication with customer service. It's part of LIME's initiative to enhance customer service and provide more convenient access to mobile services​",
+    link: "https://myflow.discoverflow.co",
   },
 ];
 

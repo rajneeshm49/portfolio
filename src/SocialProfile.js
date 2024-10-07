@@ -6,7 +6,7 @@ class SocialProfile extends Component {
     console.log(link);
     return (
       <span>
-        <a href={link} target="_blank">
+        <a href={link} target="_blank" rel="noreferrer">
           <img
             src={image}
             alt="social-profile"
