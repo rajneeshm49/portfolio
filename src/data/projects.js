@@ -1,6 +1,7 @@
 import image1 from "../assets/project1.jpg";
 import image2 from "../assets/project2.png";
 import image3 from "../assets/project3.png";
+import music_master from "../assets/music-master.png";
 
 const PROJECTS = [
   {
@@ -32,4 +33,15 @@ const PROJECTS = [
   },
 ];
 
-export default PROJECTS;
+const SIDE_PROJECTS = [
+  {
+    id: "music-master",
+    title: "Music Master",
+    image: music_master,
+    description:
+      "Uncover the top hits from your favorite artists. Dive into their best tracks and play them instantly with a tap!",
+    link: "https://music-master-yubk-9l0rfl0iq-rajneeshm49s-projects.vercel.app/",
+  },
+];
+
+export { PROJECTS, SIDE_PROJECTS };
